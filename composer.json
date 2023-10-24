@@ -1,0 +1,18 @@
+{
+    "name": "vilnis/currency-exchange",
+    "type": "project",
+    "require": {
+        "symfony/http-client": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "CurrencyExchange\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jewbacca69",
+            "email": "vilnisgrinbergs22@proton.me"
+        }
+    ]
+}
